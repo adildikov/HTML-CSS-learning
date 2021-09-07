@@ -26,7 +26,7 @@ HTML&CSS: https://htmlacademy.ru/courses/basic-html-css
 
 Hexlet(Очень приятный ресурс, я о нем недавно узнал, и мне понравилось, оказалось, что конкретно css и HTML тут не очень. Зато js курс хороший): https://ru.hexlet.io/categories/html/courses
 
-Аналог, не менее полезный, много бесплатного и все понятно(можно пройти после HTMLAcademy, чтобы закрепить знания):   
+(Мой наверное топ 1) Аналог, не менее полезный, много бесплатного и все понятно(можно пройти после HTMLAcademy, чтобы закрепить знания):   
 HTML: https://ru.code-basics.com/languages/html  
 CSS: https://ru.code-basics.com/languages/css  
 
